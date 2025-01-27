@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Codigo de Erro"
+    return "Codigo de Erro"*
